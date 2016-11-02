@@ -24,4 +24,8 @@ It adds the errors to the messages that will be displayed
 
 # Give us feedback on the project and decal below!
 
+Fun!
+
 # Extra credit: Link your Heroku deployed app
+
+Nah
